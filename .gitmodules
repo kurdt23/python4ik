@@ -1,0 +1,6 @@
+[submodule ".dvc"]
+	path = .dvc
+	url = https://github.com/htcr/sam_road/tree/main/cityscale
+[submodule "lab4"]
+	path = lab4
+	url = https://github.com/htcr/sam_road/tree/main/cityscale_metrics/apls
